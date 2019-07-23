@@ -171,6 +171,12 @@ Here you have to write little javacript code to create a condition,so the temper
 
 ![alt tag](https://github.com/rjrajbir/Sending-data-of-Wireless-Temperature-and-Humidity-Sensor-to-Excel/blob/master/excel_step2.JPG)
 
+- **Now connect all the wires and hit the "deploy" button**
+
+![alt tag](https://github.com/ncdcommunity/Sending-data-of-IoT-Wireless-Temperature-and-Humidity-Sensor-to-Excel/blob/master/wire_connection.JPG)
+
+![alt tag](https://github.com/ncdcommunity/Sending-data-of-IoT-Wireless-Temperature-and-Humidity-Sensor-to-Excel/blob/master/final_flow_excel_node.JPG)
+
 # OUTPUT
 
 ![alt tag](https://github.com/rjrajbir/Sending-data-of-Wireless-Temperature-and-Humidity-Sensor-to-Excel/blob/master/excel_output.JPG)
